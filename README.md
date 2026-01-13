@@ -5,7 +5,7 @@ This repository contains all my assignments, notebooks, and experiments complete
 
 # Table of Contents
 - [Assignment 1: Data and Feature Engineering in Pandas](./Assignment_1/2_01_data_and_feature_engineering_in_pandas_COMPLETED.ipynb)
-- [Final_assignment]
+- [Final Assignment: Data Science & Generative AI](Final_assignment)
 
 # License 
 This repository is released under the **MIT License** — free to use, modify, and share with proper credit.  
